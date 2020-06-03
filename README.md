@@ -1,0 +1,2 @@
+# valid
+A validation file
